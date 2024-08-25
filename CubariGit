@@ -5,7 +5,7 @@
   "author": "Adrien Clemenceau",
   "cover": "l.jpg",
   "chapters": {
-    "<chapter number>": {
+    "1": {
       "title": "Aleaume Ch2",
       "volume": "2",
       "groups": {
