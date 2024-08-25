@@ -1,0 +1,17 @@
+{
+  "title": "Aleaume",
+  "description": "",
+  "artist": "Adrien Clemenceau",
+  "author": "Adrien Clemenceau",
+  "cover": "l.jpg",
+  "chapters": {
+    "<chapter number>": {
+      "title": "Aleaume Ch2",
+      "volume": "2",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/plOAJ39/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
